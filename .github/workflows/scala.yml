@@ -2,9 +2,9 @@ name: Scala CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ depolit-v1130 ]
   pull_request:
-    branches: [ master ]
+    branches: [ depolit-v1130 ]
 
 jobs:
   build:
