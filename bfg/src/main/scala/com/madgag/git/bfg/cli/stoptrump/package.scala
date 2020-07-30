@@ -18,9 +18,7 @@ package object stoptrump {
     s"""
        |
        |--
-       |You can rewrite history in Git - don't let Trump do it for real!
-       |Trump's administration has lied consistently, to make people give up on ever
-       |being told the truth. Don't give up: $url
+       |You can rewrite history in Git - don't let anyone do it for real!
        |--
        |
        |""".stripMargin
